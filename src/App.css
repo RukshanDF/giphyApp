@@ -1,0 +1,32 @@
+.main_window {
+	border: 2px solid #ffa31a;
+	margin: 15px;
+	min-height: 100vh;
+}
+
+.image_layout {
+	border: 2px solid gray;
+	margin: 2px;
+}
+
+.image {
+	width: 100%;
+	min-height: 30px;
+	height: 50vh;
+}
+
+.align_center {
+	text-align: center;
+}
+
+.vertical_align {
+	align-self: center;
+}
+
+.padding_bottom {
+	padding-bottom: 3rem;
+}
+
+.font_color {
+	color: #ffa31a;
+}
